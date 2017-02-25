@@ -37,7 +37,8 @@ h1, h2, h3 {
   border:none;
 }
 
-a, 
+a,
+.navbar-default .navbar-brand
 .navbar-default .navbar-nav > li > a {
   color: white;
   &:hover {
